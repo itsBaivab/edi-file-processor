@@ -5,7 +5,7 @@
       "name": "inputBlob",
       "type": "blobTrigger",
       "direction": "in",
-      "path": "edibaivabuploads/{name}",
+      "path": "edifiles/{name}",
       "connection": "AzureWebJobsStorage"
     }
   ]
